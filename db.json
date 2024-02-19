@@ -1,0 +1,26 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Item A",
+        "price": 19.99,
+        "description": "This is a description for Item A.",
+        "checked": true
+      },
+      {
+        "id": 2,
+        "name": "Item B",
+        "price": 29.99,
+        "description": "Description for Item B goes here.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "name": "Item C",
+        "price": 39.99,
+        "description": "Description for Item C.",
+        "checked": true
+      }
+    ]
+  }
+  
